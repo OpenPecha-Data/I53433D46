@@ -5,11 +5,13 @@ source_metadata:
   title: བོད་དང་ཧི་མཱ་ལ་ཡར་ཡོད་པའི་བོན་དགོན་དང་ལྷ་ཁང་གི་སྤྱི་བཤད།
   author: ''
   volumes:
-    f8b361e5ac944a6d8aaefa17bb1ea594:
+    4201784b454540eeb962790f765e5b4d:
       image_group_id: I1KG12880
-      title: ''
+      title: Volume 1 of a survey of bonpo monasteries and temples in tibet and the
+        himalaya
       volume_number: 1
       total_pages: 900
+      base_file: v001.txt
 ebook_metadata:
   title: བོད་དང་ཧི་མཱ་ལ་ཡར་ཡོད་པའི་བོན་དགོན་དང་ལྷ་ཁང་གི་སྤྱི་བཤད།
   author: ''
